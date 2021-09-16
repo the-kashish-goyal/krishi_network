@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "name": "abcd",
+      "email": "abcd@gmail.com",
+      "gender": "Male",
+      "file": "blob:http://localhost:3000/99e6575a-66dc-4616-bc8a-cccefb9053c9",
+      "id": "1"
+    },
+    {
+      "name": "Kashish Goyal",
+      "gender": "Male",
+      "email": "kashishgoyal471@gmail.com",
+      "file": "blob:http://localhost:3001/f0927f9e-5ef1-481a-b89a-3a5a0b1fe809",
+      "id": "QF3qiOQ"
+    },
+    {
+      "name": "Kashish Goyal",
+      "gender": "Male",
+      "email": "kashishgoyal471@gmail.com",
+      "file": "blob:http://localhost:3001/99cbadd4-7051-4831-a127-1172096987d6",
+      "id": "qw3Z-Xb"
+    },
+    {
+      "name": "Kashish Goyal",
+      "gender": "Male",
+      "email": "kashishgoyal471@gmail.com",
+      "file": "blob:http://localhost:3001/61012240-6de4-4fe5-bc47-72b80249bc45",
+      "id": "bFsMoVs"
+    },
+    {
+      "name": "aman",
+      "gender": "Male",
+      "email": "sdbhdb@gmail.com",
+      "file": "blob:http://localhost:3001/0c9d3c84-345a-4053-ae26-3b82cbeeef21",
+      "id": "NsvcHEu"
+    }
+  ]
+}
